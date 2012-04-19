@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<hero>
+		<body><![CDATA[	<div class="alert-message warning">این فقط یه شروع برای این پروژه است و هدف من این بوده که فقط یک راه ساده و قابل گسترش برای اینکار ارایه کنم، و گیت به نظرم بهترین بستر بود. هنوز دسته بندی ها درست نیست، سوالات و مقدمه هنوز شباهتی به راهنما :) ندارند، لطفا در صورتی که پیشنهادی دارید، <a href="https://github.com/fzerorubigd/plf"> این پروژه </a> را فورک کنید، ویرایش کنید و درخواست pull بدهید. اگر سوالی بود یا پیشنهادی که در این قالب جای نمیگرفت،‌با fzerorubigd روی جیمیل تماس بگیرید. ممنون.</div>
+]]></body>
+	</hero>
+	<category>
+		<name>kde</name>
+		<title> سوالات عمومی درباره میزکار KDE</title>
+		<description>سوالات رایج در مورد لینوکس</description>
+	</category>
+	<questions>
+		<question>
+			<q><![CDATA[KDE چیست؟]]></q>
+			<a><![CDATA[لطفا این سوال را تکمیل کنید]]></a>
+		</question>		
+		<question>
+			<q><![CDATA[چطور میتوانم ....؟]]></q>
+			<a><![CDATA[لطفا این سوال را تکمیل کنید]]></a>
+		</question>		
+					
+	</questions>
+</page>
